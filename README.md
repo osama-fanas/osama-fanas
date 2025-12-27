@@ -18,22 +18,19 @@ I am a software developer and researcher interested in building intelligent syst
 
 ## 🛠️ Technologies & Tools
 - **Programming Languages:**  
-  `Python` · `C#` · `JavaScript` · `SQL`
+  `Python` · `C#` · `C++` · `SQL`· `R`
 
 - **Frameworks & Platforms:**  
-  `.NET / ASP.NET Core` · `Node.js`  
-  `Railway` · `Docker`
+  `.NET / ASP.NET Core` · `ANACONDA`  
+
 
 - **Cloud & DevOps:**  
-  `AWS` · `CI/CD` · `GitHub Actions`
+  `AWS` 
 
 - **Databases:**  
-  `PostgreSQL` · `MySQL` · `MongoDB`  
-  `Graph Databases` · `Vector Databases`
+   `MSSQL` 
 
-- **AI & Data:**  
-  `Machine Learning` · `NLP` · `Semantic Search`  
-  `Neural-Symbolic Systems`
+
 
 ---
 
@@ -42,11 +39,6 @@ I am a software developer and researcher interested in building intelligent syst
 Hybrid **Graph–Vector Framework** for semantic understanding of Qur’anic text.  
 Focuses on combining symbolic knowledge graphs with neural embeddings.
 
-### 🔹 Cloud-Based Academic Systems
-- Student evaluation platforms
-- Parent–school communication systems
-- Secure data handling and analytics
-
 ---
 
 ## 📚 Research Interests
@@ -54,14 +46,14 @@ Focuses on combining symbolic knowledge graphs with neural embeddings.
 - AI for Religious and Linguistic Texts
 - Neural Semantic Representation
 - Meta-learning & Knowledge Representation
-- Ethical and Philosophical Dimensions of AI
+
 
 ---
 
 ## 📫 Contact & Links
 - 🌐 GitHub: https://github.com/osama-fanas
-- ✉️ Email: *(add your academic or professional email here)*
-- 📄 ResearchGate / Google Scholar *(optional)*
+- ✉️ Email: *(osama.abufanas@it.misuratau.edu.ly)*
+
 
 ---
 
