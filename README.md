@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Osama Fanas
+# 👋 Hi, I'm Osama Abufanas
 
 💻 Software Engineer | ☁️ Cloud Computing | 🤖 AI & Data | 📖 Qur’anic AI Researcher  
 
-I am a software developer and researcher interested in building intelligent systems that combine **computer science**, **artificial intelligence**, and **semantic understanding**, with a special focus on **cloud-based solutions** and **Qur’anic text analysis using AI**.
+I am a software developer and researcher interested in building intelligent systems that combine **computer science**, **artificial intelligence**, and **semantic understanding**, with a special focus on **Qur’anic text analysis using AI**.
 
 ---
 
 ## 🚀 About Me
 - 🎓 Software Engineering background
-- ☁️ Interested in Cloud Computing (AWS, PaaS, DevOps)
+- ☁️ Interested in Cloud Computing (AWS, PaaS)
 - 🤖 Research-oriented in Artificial Intelligence
 - 📖 Working on AI-based semantic analysis of the Holy Qur’an
 - 🧠 Interested in hybrid approaches (Graph + Vector + Neural Models)
