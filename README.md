@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Osama Abufanas
 
-💻 Software Engineer | ☁️ Cloud Computing | 🤖 AI & Data | 📖 Qur’anic AI Researcher  
+💻 Software Engineer | ☁️ Cloud Computing | 🤖 AI & Data | 📖 Qur’anic AI Researcher  (starter) 
 
 I am a software developer and researcher interested in building intelligent systems that combine **computer science**, **artificial intelligence**, and **semantic understanding**, with a special focus on **Qur’anic text analysis using AI**.
 
